@@ -102,4 +102,5 @@ module.exports = {
   getUserInfoById: getUserInfoById,
   updateUserData: updateUserData,
   deleteUserById: deleteUserById,
+  
 };
